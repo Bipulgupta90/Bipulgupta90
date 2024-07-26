@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bipulgupta90
-   --I M WEB DEVELOPER
-   -- IM SOFTWARE ENGINEER FOR BEGINNER
+- --- I m currently Learning for ----- HTML CSS JAVASCRIPT NODE.JS, Express.MANGO-DB SQL,MYSQL,  
+   ---- I M WEB DEVELOPER
+   -- ------ I M SOFTWARE ENGINEER FOR BEGINNER
 - 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
