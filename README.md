@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Bipulgupta90
+- I'M Frontend Developer
+- PYTHON DEVELOPER
 -  -- I m currently Learning for ----- HTML CSS JAVASCRIPT NODE.JS, Express.MANGO-DB SQL,MYSQL,  
 - I M WEB DEVELOPER
 - I M SOFTWARE ENGINEER FOR BEGINNER
